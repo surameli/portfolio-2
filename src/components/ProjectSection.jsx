@@ -19,8 +19,8 @@ const projects = [
     description: "A personal portfolio website to showcase projects, skills, and experience, designed with a modern and responsive layout.",
     tags: ["React", "Tailwind CSS", "JavaScript"],
     imageUrl: "projects/portfolio.png",
-    projectUrl: "#",
-    githubUrl: "#"
+    projectUrl: "https://surafel-melliyon.vercel.app",
+    githubUrl: "https://github.com/surameli/portfolio-2"
 
   },
   {
